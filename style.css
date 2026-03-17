@@ -28,6 +28,7 @@ button {
 	padding: 12px;
 	border: 1px solid white;
 	background-color: rgb(29, 29, 29);
+	border-radius: 12px;
 }
 
 button:active {
